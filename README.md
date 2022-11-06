@@ -1,2 +1,2 @@
 # Bank System
-![screenshot](Capture.jpg)
+![screenshot](Capture.JPG)
